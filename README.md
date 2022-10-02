@@ -1,2 +1,3 @@
 # hello-world
-GitHub respository example .
+GitHub respository example.
+Learning from GitHub docs.
